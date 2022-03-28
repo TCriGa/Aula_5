@@ -1,2 +1,2 @@
 # Aula_5
-Exercícios da aula 5
+Exercícios ministrados na aula 5
